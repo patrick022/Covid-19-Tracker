@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Krona+One');
+
+body {
+  font-family: 'kronaOne', sans-serif;
+  background: #fff; /* fallback for old browsers */
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+i {
+  margin-right: 10px;
+}
+.navbar-custom {
+    height: 70px;
+}
+
+.navbar-mainbg {
+  background-color:#414a4f;
+  padding: 0px;
+}
+
+.Title {
+    color:white;
+    position: relative;
+    left: 70px;
+}
+
+.Button-link {
+    position: relative;
+    right: 150px;
+}
