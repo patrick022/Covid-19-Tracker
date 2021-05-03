@@ -1,3 +1,9 @@
+# Covid-19-Tracker
+
+Live: https://covid-19-tracker.gq/
+
+Covid-19 tracker using disease.sh API at: https://corona.lmao.ninja/docs/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
