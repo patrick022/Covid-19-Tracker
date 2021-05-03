@@ -16,6 +16,7 @@ const Navbar = () => {
                 variant="contained"
                 color="primary"
                 endIcon={<GitHubIcon></GitHubIcon>}
+                href="https://github.com/patrick022/Covid-19-Tracker"
             >
                 Github Repo
             </Button>
