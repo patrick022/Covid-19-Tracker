@@ -1,6 +1,6 @@
 # Covid-19-Tracker
 
-Live: https://covid-19-tracker.gq/
+Live: [demo](https://covid-19-tracker-1339f.web.app/)
 
 Covid-19 tracker using disease.sh API at: https://corona.lmao.ninja/docs/ 
 
